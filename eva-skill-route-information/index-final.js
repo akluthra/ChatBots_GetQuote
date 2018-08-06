@@ -5,7 +5,24 @@ var QuoteDataObj = {
                     Lincoln: [
                         "Government of the people, by the people, for the people, shall not perish from the Earth.",
                         "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
-                        "Whatever you are, be a good one."
+                        "Whatever you are, be a good one.",
+                        "America will never be destroyed from the outside. If we falter and lose our freedoms, it will be because we destroyed ourselves.",
+                        "No man has a good enough memory to be a successful liar.",
+                        "You cannot escape the responsibility of tomorrow by evading it today.",
+                        "Be sure you put your feet in the right place, then stand firm.",
+                        "I remember my mother's prayers and they have always followed me. They have clung to me all my life.",
+                        "Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.",
+                        "The best way to get a bad law repealed is to enforce it strictly.",
+                        "The highest art is always the most religious, and the greatest artist is always a devout person.",
+                        "Don't worry when you are not recognized, but strive to be worthy of recognition.",
+                        "You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.",
+                        "Do I not destroy my enemies when I make them my friends?",
+                        "I have always found that mercy bears richer fruits than strict justice.",
+                        "Most folks are as happy as they make up their minds to be.",
+                        "A house divided against itself cannot stand.",
+                        "When I do good I feel good, when I do bad I feel bad, and that's my religion."
+                        "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have. I must stand with anybody that stands right, and stand with him while he is right, and part with him when he goes wrong.",
+                        "I do the very best I know how - the very best I can; and I mean to keep on doing so until the end."
                         ],
                     Einstein: [
                         "Imagination is more important than knowledge.",
