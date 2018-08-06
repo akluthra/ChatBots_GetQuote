@@ -27,8 +27,109 @@ var QuoteDataObj = {
                     Einstein: [
                         "Imagination is more important than knowledge.",
                         "If the facts don't fit the theory, change the facts.",
-                        "Life is like riding a bicycle. To keep your balance you must keep moving."
-                        ]
+                        "Life is like riding a bicycle. To keep your balance you must keep moving.",
+                        "A teacher can never truly teach unless he is still learning himself. ",
+                        "A lamp can never light another lamp unless it continues to burn its own flame. The teacher who has come to the end of his subject, who has no living traffic with his knowledge but merely repeats his lesson to his students, can only load their minds, he cannot quicken them.",
+                        "You can't cross the sea merely by standing and staring at the water.",
+                        "Where the mind is without fear and the head is held high Where knowledge is free.",
+                        "It is very simple to be happy, but it is very difficult to be simple.",
+                        "Go not to the temple to put flowers upon the feet of God, first fill your own house with the fragrance of love. Go not to the temple to light candles before the altar of God, first remove the darkness of sin from your heart. Go not to the temple to bow down your head in prayer, first learn to bow in humility before your fellow men. Go not to the temple to pray on bended knees, first bend down to lift someone who is down trodden. Go not to the temple to ask for forgiveness for your sins, first forgive from your heart those who have sinned against you.",
+                        "Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.",
+                        "The one who plants trees, knowing that he will never sit in their shade, has at least started to understand the meaning of life.",
+                        "Everything comes to us that belongs to us if we create the capacity to receive it.",
+                        "A lamp can only light another lamp when it continues to burn in its own flame.",
+                        "If you cry because the sun has gone out of your life, your tears will prevent you from seeing the stars.",
+                        "... let us unite, not in spite of our differences, but through them. For differences can never be wiped away, and life would be so much the poorer without them. Let all human races keep their own personalities, and yet come together, not in a uniformity that is dead, but in a unity that is living.",
+                        "I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy.",
+                        "The highest education is that which does not merely give us information but makes our life in harmony with all existence.",
+                        "The small wisdom is like water in a glass: clear, transparent, pure. The great wisdom is like the water in the sea: dark, mysterious, impenetrable.",
+                        "The most important lesson that man can learn from life, is not that there is pain in this world, but that it is possible for him to transmute it into joy.",
+                        "The roots below the earth claim no rewards for making the branches fruitful.",
+                        "Great suffering brings with it the power of great endurance. When sorrow is deepest all the forces of patience and courage are banded together to do their duty. So while we are cowards before petty troubles, great sorrows make us brave by rousing our truer manhood.",
+                        "If I can't make it through one door, I'll go through another door- or i'll make a door. Something terrific will come no matter how dark the present.",
+                        "Don't limit a child to your own learning, for he was born in another time.",
+                        "Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.",
+                        "Man is worse than an animal when he is an animal.",
+                        "The main object of teaching is not to give explanations, but to knock at the doors of the mind.",
+                        "We are hidden in ourselves, like a truth hidden in isolated facts. When we know that this One in us is One in all, then our truth is revealed.",
+                        "The biggest changes in a women's nature are brought by love; in man, by ambition",
+                        "The greatest distance in this World is not that between living and death, it is when I am just before you, and you don't know that I Love You.",
+                        "Love is the only reality and it is not a mere sentiment. It is the ultimate truth that lies at the heart of creation.",
+                        "Life itself is a strange mixture. We have to take it as it is, try to understand it, and then to better it.",
+                        "Let us not pray to be sheltered from dangers but to be fearless when facing them.",
+                        "Everything comes to us that belongs to us if we create the capacity to receive it.",
+                        "Life is perpetually creative because it contains in itself that surplus which ever overflows the boundaries of the immediate time and space, restlessly pursuing its adventure of expression in the varied forms of self-realization.",
+                        "The highest education is that which does not merely give us information but makes our life in harmony with all existence.",
+                        "Every child comes with the message that God is not yet discouraged of man."
+                        ],
+                 Gibran: [
+                      "You talk when you cease to be at peace with your thoughts.",
+                      "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+                      "One day you will ask me which is more important? My life or yours? I will say mine and you will walk away not knowing that you are my life.",
+                      "If you love somebody, let them go, for if they return, they were always yours. If they don’t, they never were.",
+                      "Beauty is not in the face; beauty is a light in the heart.",
+                      "Your children are not your children. They are the sons and daughters of Life’s longing for itself.",
+                      "I have learned silence from the talkative, toleration from the intolerant, and kindness from the unkind; yet strange, I am ungrateful to these teachers.",
+                      "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.",
+                      "We are all like the bright moon, we still have our darker side.",
+                      "No human relation gives one possession in another—every two souls are absolutely different. In friendship or in love, the two side by side raise hands together to find what one cannot reach alone.",
+                      "It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone… but it takes a lifetime to forget someone.",
+                      "You give but little when you give of your possessions. It is when you give of yourself that you truly give.",
+                      "Generosity is giving more than you can, and pride is taking less than you need.",
+                      "To belittle, you have to be little.",
+                      "We choose our joys and sorrows long before we experience them.",
+                      "You pray in your distress and in your need; would that you might pray also in the fullness of your joy and in your days of abundance.",
+                      "The smallest act of kindness is worth more than the greatest intention.",
+                      "Music is the language of the spirit. It opens the secret of life bringing peace, abolishing strife.",
+                      "You may forget with whom you laughed, but you will never forget with whom you wept.",
+                      "To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.",
+                      "Love knows not its own depth until the hour of separation.",
+                      "The appearance of things changes according to the emotions; and thus we see magic and beauty in them, while the magic and beauty are really in ourselves.",
+                      "Your living is determined not so much by what life brings to you as by the attitude you bring to life; not so much by what happens to you as by the way your mind looks at what happens.",
+                      "They deem me mad because I will not sell my days for gold; and I deem them mad because they think my days have a price.",
+                      "Trust in dreams, for in them is the hidden gate to eternity.",
+                      "When you reach the end of what you should know, you will be at the beginning of what you should sense."
+                      ],
+                  Tagore: [
+                      "Few are those who see with their own eyes and feel with their own hearts.",
+                      "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
+                      "Unthinking respect for authority is the greatest enemy of truth.",
+                      "Try not to become a man of success, but rather try to become a man of value.",
+                      "I am by heritage a Jew, by citizenship a Swiss, and by makeup a human being, and only a human being, without any special attachment to any state or national entity whatsoever.",
+                      "Great spirits have always encountered violent opposition from mediocre minds.",
+                      "Not everything that can be counted counts, and not everything that counts can be counted.",
+                      "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.",
+                      "Look deep into nature, and then you will understand everything better.",
+                      "All religions, arts and sciences are branches of the same tree.",
+                      "Any intelligent fool can make things bigger and more complex… It takes a touch of genius – and a lot of courage to move in the opposite direction.",
+                      "A man should look for what is, and not for what he thinks should be.",
+                      "In the middle of difficulty lies opportunity.",
+                      "A person who never made a mistake never tried anything new.",
+                      "Education is what remains after one has forgotten what one has learned in school.",
+                      "A table, a chair, a bowl of fruit and a violin; what else does a man need to be happy?",
+                      "A human being is part of a whole called by us the universe.",
+                      "The important thing is to not stop questioning. Curiosity has its own reason for existing.",
+                      "A question that sometimes drives me hazy: am I or are the others crazy?",
+                      "Anger dwells only in the bosom of fools.",
+                      "Life is like riding a bicycle. To keep your balance you must keep moving.",
+                      "Concern for man and his fate must always form the chief interest of all technical endeavors. Never forget this in the midst of your diagrams and equations.",
+                      "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+                      "All that is valuable in human society depends upon the opportunity for development accorded the individual.",
+                      "Once you stop learning, you start dying.",
+                      "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+                      "It has become appallingly obvious that our technology has exceeded our humanity.",
+                      "Only one who devotes himself to a cause with his whole strength and soul can be a true master. For this reason mastery demands all of a person.",
+                      "He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed.",
+                      "I have no special talent. I am only passionately curious.",
+                      "Weak people revenge. Strong people forgive. Intelligent people ignore.",
+                      "A ship is always safe at shore but that is not what it’s built for.",
+                      "What is right is not always popular, and what is popular is not always right.",
+                      "Education is not the learning of facts, it’s rather the training of the mind to think.",
+                      "I speak to everyone in the same way, whether he is the garbage man or the president of the university.",
+                      "I am thankful for all of those who said NO to me. Its because of them I’m doing it myself.",
+                      "Never give up on what you really want to do. The person with big dreams is more powerful than the one with all the facts.",
+                      "Common sense is the collection of prejudices acquired by age eighteen."
+                      ]
 };
 
 // Bookmarked Places and their coordinates
@@ -409,23 +510,3 @@ exports.handler = function(event, context, callback) {
     alexa.registerHandlers(handlers);
     alexa.execute();
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
