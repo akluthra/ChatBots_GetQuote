@@ -7,7 +7,7 @@ var handlers = {
 
         console.log("Launch Request Intent Handler Called");
         
-        this.emit(':tell', "Hello, I am Eva! I am glad to meet you.");
+        this.emit(':tell', "Hello, I am Quote Queen! I am glad to meet you.");
     },
 };
 
