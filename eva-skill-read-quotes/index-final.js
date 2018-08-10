@@ -34,7 +34,14 @@ function getQuoteFunction(author) {
         case 'Abraham Lincoln': author = 'Lincoln'; break;
         case 'Abe Lincoln': author = 'Lincoln'; break;
         case 'Einstein': author = 'Einstein'; break;
+        case 'Al Einstein': author = 'Einstein'; break;
         case 'Albert Einstein': author = 'Einstein'; break;
+        case 'Khalil Gibran': author = 'Gibran'; break;
+        case 'K Gibran': author = 'Gibran'; break;
+        case 'Gibran': author = 'Gibran'; break;
+        case 'Rabindranath Tagore': author = 'Tagore'; break;
+         case 'R Tagore': author = 'Tagore'; break;
+         case 'Tagore': author = 'Tagore'; break;
         default: author = "Unknown";
     }
     
@@ -75,10 +82,10 @@ var handlers = {
         console.log("Introduction Handler called.");
         
         // The user opened the skill without providing any action or intent
-        var speechOutput = "Hello, I am Eva. You can ask me to read out quotes from Einstein, and Abraham Lincoln";
+        var speechOutput = "Hello, I am Quote Queen. You can ask me to read out quotes from Einstein, Abraham Lincoln, Khalil Gibran and Rabindranth Tagore";
         
         // In case the user did not provide any input
-        var repromptText = "I did not receive any input. Thank you and good bye.";
+        var repromptText = "I did not understand your input. Thank you and have a nice day.";
         
         // Just speak it out through an Alexa Device
         this.emit(':ask', speechOutput, repromptText);
